@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Study AI",
+  "description": "A high-performance educational platform featuring a glassmorphism interface, split-screen PDF study mode, and AI-powered learning assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
